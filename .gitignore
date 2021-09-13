@@ -1,0 +1,6 @@
+*.pyc
+venv/
+.tool-versions
+.envrc
+.vscode
+charts/*/charts
