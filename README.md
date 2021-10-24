@@ -1,4 +1,4 @@
-Developed for *** by SB
+Flagsmith Helmchart for offline usage
 
 helm install -n flagsmith --create-namespace flagsmith .\flagsmith2-helm-sb\flagsmith2-helm-sb\
 kubectl -n flagsmith port-forward svc/flagsmith-frontend 8080:8080
